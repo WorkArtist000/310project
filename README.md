@@ -26,6 +26,10 @@ Fig2. Sample questions and answer conversation with information about gym
 Fig3. Bot's improved response to unintelligible user inputs  
 
 
+LIST OF APIS USED 
+- Nutrition API by API Ninjas
+- OpenWeatherMap API
+
 ### Credits 
 Thivina Randiv  
 Prithvi Waraich 
